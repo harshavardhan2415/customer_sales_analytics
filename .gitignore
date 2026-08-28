@@ -1,0 +1,35 @@
+# Power BI temporary files
+*.pbix~
+*.pbit~
+
+# Power BI cache
+*.cache
+*.tmp
+
+# Python virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables and secrets
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Large generated files (optional)
+*.bak
+*.sql.bak
