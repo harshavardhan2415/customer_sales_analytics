@@ -784,5 +784,3 @@ The project demonstrates practical skills required for a Data Analyst role, incl
 
 ```
 
-This version accurately represents your project without overstating Python. 
-```
